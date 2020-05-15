@@ -81,4 +81,4 @@ Masonry is released under the [MIT license](http://desandro.mit-license.org). Ha
 
 * * *
 
-Made by David DeSandro
+Made by David DeSandro & Ewen Clément.
